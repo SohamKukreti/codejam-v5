@@ -1,13 +1,13 @@
-[submodule "submissions/elf-engineers/dashboard"]
+[submodule "elf-engineers/dashboard"]
     path = submissions/elf-engineers
     url = https://github.com/aayushgzip/codejam-v5
-[submodule "submissions/jingle-jamboree"]
+[submodule "jingle-jamboree"]
     path = submissions/jingle-jamboree
     url = https://github.com/jingle-jamboree/webapp
-[submodule "submissions/jolly-joysticks"]
+[submodule "jolly-joysticks"]
     path = submissions/jolly-joysticks
     url = https://github.com/me-is-mukul/jolly-joysticks
-[submodule "submissions/santas-git-workshop"]
+[submodule "santas-git-workshop"]
     path = submissions/santas-git-workshop
     url = https://github.com/Lavanya24R/Pomodoro-Timer.git
 
